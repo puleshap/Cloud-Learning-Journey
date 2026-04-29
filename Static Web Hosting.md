@@ -33,7 +33,7 @@ Browser → AWS S3 → Static HTML Files
 * Permissions (ACL vs bucket policy) are critical
 * S3 behaves like a file storage system (case-sensitive, no server logic)
 
-##Additional Observation
+## Additional Observation
 
 Even without enabling static website hosting, files could be accessed directly via S3 object URLs. This showed that S3 can serve files as a storage service, but static hosting is required for proper website behavior like default index routing and error handling.
 
