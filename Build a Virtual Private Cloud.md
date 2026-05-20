@@ -1,14 +1,13 @@
 ---
 # Build a Virtual Private Cloud (VPC)
 
-![Architecture Diagram](https://github.com/user-attachments/assets/94a484ba-4191-4508-98b3-7923921db4b0)
+![Architecture Diagram](https://github.com/user-attachments/assets/ed09b4e5-3656-4bcb-8f6d-d97fadf85cda)
 
 ---
 ## Project Overview
 ![Image](http://learn.nextwork.org/restful_navy_jolly_buddha's_hand_citron/uploads/aws-networks-vpc_2facf927)
 
 ---
-<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/94a484ba-4191-4508-98b3-7923921db4b0" />
 
 ## Introducing Today's Project
 
