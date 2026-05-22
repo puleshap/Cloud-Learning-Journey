@@ -6,8 +6,8 @@
 
 ![Image](https://github.com/user-attachments/assets/1505eaf3-4985-4706-af4e-8e3ee823fada)
 
+---
 
-Example placement:
 
 ![Image](http://learn.nextwork.org/restful_navy_jolly_buddha's_hand_citron/uploads/aws-networks-security_92b0b0b4)
 
