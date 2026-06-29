@@ -4,9 +4,9 @@
 
 ## Architecture Diagram
 
-```md
-![Architecture Diagram](PASTE_YOUR_IMAGE_LINK_HERE)
-```
+
+![Architecture Diagram](https://github.com/user-attachments/assets/90adfa28-8dea-47c6-a0e5-05395e7737ee)
+
 
 Current project diagram:
 
