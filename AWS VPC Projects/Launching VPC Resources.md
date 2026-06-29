@@ -7,11 +7,6 @@
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/90adfa28-8dea-47c6-a0e5-05395e7737ee)
 
-
-Current project diagram:
-
-![Image](http://learn.nextwork.org/restful_navy_jolly_buddha's_hand_citron/uploads/aws-networks-ec2_8ee57662)
-
 ---
 
 # Project Overview
